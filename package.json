@@ -2,7 +2,6 @@
   "name": "assignment-1",
   "version": "1.0.0",
   "description": "3 Questions using Operators, Variables and If-else conditions ",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
